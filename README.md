@@ -2,10 +2,10 @@
 
 ### Hi there, I'm Meet Zinzuvadiya 👋
 
-> 😄 Call me: Black Devil 
-> 🔭 I’m currently working with my blackdevil.dev team
-> 🌱 I’m currently learning flutter Desktop application and testing
-> ⚡ Fun fact: - Like to Developed Application with Flutter - Read Books - Listing songs while coding
+- 😄 Call me: Black Devil 
+- 🔭 I’m currently working with my blackdevil.dev team
+- 🌱 I’m currently learning flutter Desktop application and testing
+- ⚡ Fun fact: Read Books 📚 | Listing Lofi music 🎶  | Play Table Tennis 🏓  
 
 ```
 let skills = {
