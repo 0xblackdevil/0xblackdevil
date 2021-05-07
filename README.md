@@ -1,6 +1,6 @@
-![Yellow Monochrome Photo LinkedIn Banner (1)](https://user-images.githubusercontent.com/42451405/117411161-e9c19100-af30-11eb-8a64-1f145d336cf7.png)
+[Yellow Monochrome Photo LinkedIn Banner (1)](https://user-images.githubusercontent.com/42451405/117413076-28584b00-af33-11eb-872f-e5c11ec099aa.png)
 
-### Hi there, I'm Meet Zinzuvadiya 👋
+### Hi there, I'm Meet Zinzuvadiya 👋!
 
 - 😄 Call me: Black Devil 
 - 🔭 I’m currently working with my blackdevil.dev team
