@@ -1,17 +1,20 @@
 ### Hi there 👋
 
+```
 let skills = {
-  code: ["HTML", "CSS", "Javascript", "Typescript", "PHP", "Dart", "Python"],
+  code: ["Dart", "Javascript"],
   technology: {
-    frameworks : ["React", "Next", "React-Native", "Flutter", "Node", "Express", "EJS", "Feathers", "Flask", "FastAPI"],
-    tools : ["Git", "Redux", "Firebase", "Storybook", "Sass", "Styled-Components", "Jest", "Puppeteer"]
+    frameworks : ["Flutter", "Node"],
+    stateManagement: ["setState", "Provider"],
+    apiPackage:["HTTP", "dio"],
+    tools : ["Git", "Firebase"],
    },
   database: {
-    NoSQL : ["MongoDB"],
-    SQL : ["MySQL", "PostgreSQL"],
+    NoSQL : ["Firebase Firestore"],
+    SQL : ["MySQL"]
   },
 }
-
+```
 <!--
 **BlackDevil98/BlackDevil98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
