@@ -1,4 +1,4 @@
-![Yellow Monochrome Photo LinkedIn Banner](https://user-images.githubusercontent.com/42451405/117410996-b8e15c00-af30-11eb-9005-308456978525.png)
+![Yellow Monochrome Photo LinkedIn Banner (1)](https://user-images.githubusercontent.com/42451405/117411161-e9c19100-af30-11eb-8a64-1f145d336cf7.png)
 
 ### Hi there, I'm Meet Zinzuvadiya 👋
 
