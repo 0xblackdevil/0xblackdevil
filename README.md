@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Meet Zinzuvadiya 👋
+
+- 😄 Call me: Black Devil 
+- 🌱 I’m currently learning flutter Desktop application and testing
 
 ```
 let skills = {
