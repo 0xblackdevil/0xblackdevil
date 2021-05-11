@@ -6,7 +6,8 @@
 - 😄 Call me: Black Devil 
 - 🔭 I’m currently working with my blackdevil.dev team
 - 🌱 I’m currently learning flutter Desktop application and testing
-- ⚡ Fun fact: Read Books 📚 | Listing Lofi music 🎶  | Play Table Tennis 🏓  
+- 💬 Medium Articles: zinzuvadiyameet98.medium.com
+- ⚡ Hobbies: Read Books 📚 | Listing Lofi music 🎶  | Play Table Tennis 🏓  
 
 ```
 let skills = {
